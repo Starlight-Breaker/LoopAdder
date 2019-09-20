@@ -1,0 +1,15 @@
+C:\Users\VGD pc 2\source\repos\WesleyAlipio.Midterm2\bin\Debug\WesleyAlipio.Midterm2.exe.config
+C:\Users\VGD pc 2\source\repos\WesleyAlipio.Midterm2\bin\Debug\WesleyAlipio.Midterm2.exe
+C:\Users\VGD pc 2\source\repos\WesleyAlipio.Midterm2\bin\Debug\WesleyAlipio.Midterm2.pdb
+C:\Users\VGD pc 2\source\repos\WesleyAlipio.Midterm2\obj\Debug\WesleyAlipio.Midterm2.csprojAssemblyReference.cache
+C:\Users\VGD pc 2\source\repos\WesleyAlipio.Midterm2\obj\Debug\MainWindow.g.cs
+C:\Users\VGD pc 2\source\repos\WesleyAlipio.Midterm2\obj\Debug\App.g.cs
+C:\Users\VGD pc 2\source\repos\WesleyAlipio.Midterm2\obj\Debug\WesleyAlipio.Midterm2_MarkupCompile.cache
+C:\Users\VGD pc 2\source\repos\WesleyAlipio.Midterm2\obj\Debug\WesleyAlipio.Midterm2_MarkupCompile.lref
+C:\Users\VGD pc 2\source\repos\WesleyAlipio.Midterm2\obj\Debug\MainWindow.baml
+C:\Users\VGD pc 2\source\repos\WesleyAlipio.Midterm2\obj\Debug\WesleyAlipio.Midterm2.g.resources
+C:\Users\VGD pc 2\source\repos\WesleyAlipio.Midterm2\obj\Debug\WesleyAlipio.Midterm2.Properties.Resources.resources
+C:\Users\VGD pc 2\source\repos\WesleyAlipio.Midterm2\obj\Debug\WesleyAlipio.Midterm2.csproj.GenerateResource.cache
+C:\Users\VGD pc 2\source\repos\WesleyAlipio.Midterm2\obj\Debug\WesleyAlipio.Midterm2.csproj.CoreCompileInputs.cache
+C:\Users\VGD pc 2\source\repos\WesleyAlipio.Midterm2\obj\Debug\WesleyAlipio.Midterm2.exe
+C:\Users\VGD pc 2\source\repos\WesleyAlipio.Midterm2\obj\Debug\WesleyAlipio.Midterm2.pdb
